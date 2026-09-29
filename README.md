@@ -49,9 +49,9 @@ Apasionado por la tecnología, desarrollo de software y resolver problemas compl
 
 ## 📌 Proyectos Destacados
 
-- 🔋 **RedPill Tech** - Sistema de ventas y garantías de baterías (Proyecto grupal UAM)
-- 🗑️ **Recycling Missions App** - App de misiones de reciclaje con diseño ER
-- 🏢 **El Faro** - Plataforma de sesiones grupales
+- 🔋 **Gestor de hospital** - Sistema de gestion y distribucion de hospitales (Proyecto grupal UAM)
+- 🗑️ **frontend bolsa de valores** - visibilidad de bolsas de valores en timepo real
+- 🏢 **Aphelions team** - proyecto en equipo y participantes del codefest 2026
 
 ---
 
