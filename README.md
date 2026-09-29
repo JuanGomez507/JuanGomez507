@@ -35,14 +35,14 @@ Apasionado por la tecnología, desarrollo de software y resolver problemas compl
 
 ---
 
+
 ## 📊 Mis Estadísticas
-
+ 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanGomez507&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGomez507&layout=compact&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanGomez507&show_icons=true&theme=dracula&count_private=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGomez507&layout=compact&theme=dracula)
+ 
 </div>
 
 ---
