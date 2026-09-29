@@ -35,23 +35,24 @@ Apasionado por la tecnología, desarrollo de software y resolver problemas compl
 
 ---
 
-
 ## 📊 Mis Estadísticas
- 
+
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanGomez507&show_icons=true&theme=dracula&count_private=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGomez507&layout=compact&theme=dracula)
- 
+
+[![GitHub followers](https://img.shields.io/github/followers/JuanGomez507?style=social)](https://github.com/JuanGomez507)
+[![GitHub User's stars](https://img.shields.io/github/stars/JuanGomez507?style=social)](https://github.com/JuanGomez507)
+
 </div>
+
+**Puedes ver mis proyectos y actividad directamente en mi [perfil de GitHub](https://github.com/JuanGomez507)**
 
 ---
 
 ## 📌 Proyectos Destacados
 
-- 🔋 **Gestor de hospital** - Sistema de gestion y distribucion de hospitales (Proyecto grupal UAM)
-- 🗑️ **frontend bolsa de valores** - visibilidad de bolsas de valores en timepo real
-- 🏢 **Aphelions team** - proyecto en equipo y participantes del codefest 2026
+- 🔋 **RedPill Tech** - Sistema de ventas y garantías de baterías (Proyecto grupal UAM)
+- 🗑️ **Recycling Missions App** - App de misiones de reciclaje con diseño ER
+- 🏢 **El Faro** - Plataforma de sesiones grupales
 
 ---
 
